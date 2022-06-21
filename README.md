@@ -1,5 +1,5 @@
-# oneNeuron_pypi
-oneNeuron_pypi
+# singleNeuron_pypi
+singleNeuron_pypi
 
 
 
